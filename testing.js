@@ -14,4 +14,29 @@ function reverseString(string) {
     return newString;
 }
 
-module.exports = { reverseString, stringLength }
+ class Calculator {
+    static add(a, b) {
+        return a + b;
+    }
+
+    static subtract(a, b) {
+        return a - b;
+    }
+
+    static multiply(a, b) {
+        return a * b;
+    }
+
+    static divide(a, b) {
+        return a / b;
+    }
+}
+
+function capitalize(str) {
+    
+    const firsLetter = str.charAt(0);
+    const capitalize =  firsLetter.toUpperCase() + str.slice(1);
+    return capitalize;
+}
+
+module.exports = { reverseString, stringLength, Calculator, capitalize }

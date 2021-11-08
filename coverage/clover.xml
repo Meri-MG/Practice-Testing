@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1636393698496" clover="3.2.0">
+  <project timestamp="1636393698497" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="27" coveredelements="27" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="testing.js" path="/home/meri/Practice-Testing/testing.js">
+      <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="4" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="42" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
